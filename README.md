@@ -1,10 +1,10 @@
 Hi 👋 My name is Arnika Sharma
 ==============================
 
-Designer
+Desiner|Developer
 --------
 
-I've been learning designing since last 1 year and setting my hand in the field of web development
+Thinking Creating Solving
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arnika21sh@gmail.com](mailto:arnika21sh@gmail.com)
